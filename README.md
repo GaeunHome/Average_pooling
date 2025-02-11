@@ -7,7 +7,8 @@
 平均池化 (Average Pooling) 是在一個 **NxM** 的二維陣列中，給定固定大小 **PxQ** 範圍，計算該範圍內數值的平均。當 **P ≤ N** 且 **Q ≤ M** 時，進行該操作。
 
 如下圖所示：
-![Average Pooling](img/image.jpg)
+
+<img src="img/image.jpg" width="500" alt="Average Pooling" />
 
 上圖展示了在 3x3 的陣列中，如何對每個 3x3 範圍進行平均池化，並輸出相應結果。
 
